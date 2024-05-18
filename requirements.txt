@@ -1,0 +1,1 @@
+#commant for instaling this project deps -  pip install -r requirements.txt
